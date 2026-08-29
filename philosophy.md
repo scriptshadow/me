@@ -12,57 +12,53 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### 🎯 Résoudre
 
-Le code est un moyen,  
+Le code est un moyen,<br>
 pas une finalité.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### 🧩 Simplifier
 
-Moins de complexité.  
+Moins de complexité.<br>
 Plus de clarté.
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### 🤖 Automatiser
 
-Transformer les tâches répétitives  
+Transformer les tâches répétitives<br>
 en systèmes et workflows intelligents.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center" width="33%">
 
 ### 🏗️ Construire
 
-Penser produit, architecture,  
+Penser produit, architecture,<br>
 maintenance et évolution.
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### ⚙️ Opérer
 
-Un système doit être fiable,  
+Un système doit être fiable,<br>
 maintenable et exploitable.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### 🚀 Améliorer
 
-Livrer. Observer. Apprendre.  
+Livrer. Observer. Apprendre.<br>
 Faire évoluer.
 
 </td>
@@ -73,9 +69,9 @@ Faire évoluer.
 
 ## 💡 Ma conviction
 
-> **La technologie est un levier.  
-> L’IA est un multiplicateur.  
-> Le produit est le résultat.**
+> **La technologie est un levier.**  
+> **L’IA est un multiplicateur.**  
+> **Le produit est le résultat.**
 
 Je cherche à combiner **business, IA, développement et DevOps**  
 pour transformer des problèmes réels en systèmes utiles et évolutifs.
@@ -84,8 +80,8 @@ pour transformer des problèmes réels en systèmes utiles et évolutifs.
 
 <div align="center">
 
-**Build what matters.  
-Automate what can be automated.  
-Keep it simple.**
+**Build what matters.**  
+**Automate what can be automated.**  
+**Keep it simple.**
 
 </div>
